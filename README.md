@@ -18,3 +18,8 @@ Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a y
 5.) When you send ethereum other account, make sure that add your first account address as a sender and add second one as a receiver
 
 6.) Therefore, the project will run. 
+
+
+# Link of the Project 
+
+https://dev3547.d6xhbveod1x8.amplifyapp.com/

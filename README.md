@@ -22,4 +22,4 @@ Using Web 3.0 methodologies, Solidity and Metamask you'll learn how to build a y
 
 # Link of the Project 
 
-https://dev3547.d6xhbveod1x8.amplifyapp.com/
+https://dev2139.d300gj414e4fhx.amplifyapp.com/
